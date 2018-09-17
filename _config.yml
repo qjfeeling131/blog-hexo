@@ -8,8 +8,8 @@ subtitle:
 description: This is my blog to record and share the knowledge of technology 
 keywords:
 author: Pari Zhong
-language: zh-CN
-timezone: GMT+8
+language: en
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
